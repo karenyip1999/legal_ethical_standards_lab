@@ -77,6 +77,8 @@ They can create in game money that players can use on hints to make it more diff
 
 Their development plans involve adding a premium membership which will lock many of the existing features behind a paywall. Free users will only be able to view limited versions of profiles and have a daily cap on the number of matches which can be made. Premium users, on the other hand, will now have more specific location settings and be able to filter their matches. To advertise the premium service the free-tier users will be given occasional "trial periods" of the premium tier followed by adverts showing them what they could unlock by subscribing. Additionally the generic banner ads will be replaced by more targeted advertising for local businesses. Users' location data will be shared in order to ensure relevant businesses are being advertised.
 
+- Is the company breaking any laws with their proposal?
+No, as long as customers are made aware that their location data is being shared
 
 ## Additional Resources
 

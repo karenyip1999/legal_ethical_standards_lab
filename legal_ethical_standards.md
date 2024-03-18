@@ -66,6 +66,10 @@ No, sounds like a normal game
 - What are the ethical concerns with the company's proposal?
 There are many players who would like more puzzles, but instead of directly doing this, they are making it more difficult to complete maps and on top of that, are making players have to spend their own real- world money to play what was a relaxing game 
 
+- What could the company do to address these issues?
+They can put ads in the game to generate some more income instead 
+They can increase the difficulty of the game slightly without making it so that players need to spend real life money
+They can create in game money that players can use on hints to make it more difficult for players to complete maps
 
 ### Scenario 3
 

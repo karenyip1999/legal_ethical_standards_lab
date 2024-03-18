@@ -43,6 +43,11 @@ They have recently been approached by a payday loan company who want to send dir
 - Is the company breaking any laws with their proposal?
 Yes, GDPR is being broken as companies must bring any new uses of an individual's personal data to their attention before the start of processing
 
+- What are the ethical concerns with the company's proposal?
+BankingCorp has all of the sensitive personal financial data of all customers so this information would be beneficial to the payday loan company.
+Helping the payday loan company in targeting customers struggling with their credit card bills would be ethically wrong as this will 
+worsen a financial situation, rather than improve it.
+It is ethically wrong to knowingly prey on desperate customers struggling in their financial situation as it can be tempting for them to try to fix their debt by using more debt if they are unsure on how to fix it correctly 
 
 ### Scenario 2
 

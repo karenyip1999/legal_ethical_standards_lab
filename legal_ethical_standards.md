@@ -84,6 +84,10 @@ No, as long as customers are made aware that their location data is being shared
 Adverts constantly pushing a premium service to free tier users can be an ethical concern as not everyone is able to invest in a premium subscription.
 Targeting adverts for local businesses only for free-tier users puts users in a situation where if they don't want to have their location data passed on to local businesses, then they have to buy the premium version, but they should be able to opt out of that
 
+- What could the company do to address these issues?
+Not do targeted ads with local businesses 
+Give free- tier users the option to opt out of targeted ads with local business, and instead continue with generic banner ads 
+
 ## Additional Resources
 
 - [Ten legal issues in software development](https://www.lawdonut.co.uk/business/blog/24/01/ten-legal-issues-software-development#:~:text=Which%20are%20the%20legal%20issues,%2Dinfringement%20of%20others'%20rights.)

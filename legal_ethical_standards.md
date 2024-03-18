@@ -60,6 +60,9 @@ The new mobile game Treasure Hunters has been taking the country by storm. Playe
 
 The developers have been taken aback by the success of the game and are struggling to keep up with demand. They have had to spin up more servers and are looking to hire more engineers to keep working on content. That costs money though, and they are looking to monetise the game. Instead of adding new maps daily they will continually be adding more which players can unlock by completing existing maps. Players will be able to spend their points to unlock hints which will help them progress faster. Hints will also be available to purchase using real-world money, with the possibility of offering multi-buy discounts at a later date.
 
+- Is the company breaking any laws with their proposal?
+No, sounds like a normal game
+
 
 ### Scenario 3
 

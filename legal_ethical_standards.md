@@ -40,6 +40,9 @@ BankingCorp are one of the leading retail banks in the country, offering a full 
 
 They have recently been approached by a payday loan company who want to send direct marketing to users struggling to pay their credit card bills. The loan company want to email the customers they feel would be most likely to use their services but acknowledge that manually identifying targets would be time-consuming and want to develop an algorithm to automate this. BankingCorp have given them access to their systems to test this algorithm, ensuring it works with real customer data. The loan company have had some negative publicity recently and so BankingCorp will not be announcing this new partnership publicly. Instead they will inform customers in an email explaining the changes to their terms and conditions.
 
+- Is the company breaking any laws with their proposal?
+Yes, GDPR is being broken as companies must bring any new uses of an individual's personal data to their attention before the start of processing
+
 
 ### Scenario 2
 

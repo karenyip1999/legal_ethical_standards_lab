@@ -63,6 +63,9 @@ The developers have been taken aback by the success of the game and are struggli
 - Is the company breaking any laws with their proposal?
 No, sounds like a normal game
 
+- What are the ethical concerns with the company's proposal?
+There are many players who would like more puzzles, but instead of directly doing this, they are making it more difficult to complete maps and on top of that, are making players have to spend their own real- world money to play what was a relaxing game 
+
 
 ### Scenario 3
 

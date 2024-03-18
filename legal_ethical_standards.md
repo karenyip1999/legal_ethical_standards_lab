@@ -80,6 +80,10 @@ Their development plans involve adding a premium membership which will lock many
 - Is the company breaking any laws with their proposal?
 No, as long as customers are made aware that their location data is being shared
 
+- What are the ethical concerns with the company's proposal?
+Adverts constantly pushing a premium service to free tier users can be an ethical concern as not everyone is able to invest in a premium subscription.
+Targeting adverts for local businesses only for free-tier users puts users in a situation where if they don't want to have their location data passed on to local businesses, then they have to buy the premium version, but they should be able to opt out of that
+
 ## Additional Resources
 
 - [Ten legal issues in software development](https://www.lawdonut.co.uk/business/blog/24/01/ten-legal-issues-software-development#:~:text=Which%20are%20the%20legal%20issues,%2Dinfringement%20of%20others'%20rights.)

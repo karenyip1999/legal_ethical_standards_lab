@@ -49,6 +49,11 @@ Helping the payday loan company in targeting customers struggling with their cre
 worsen a financial situation, rather than improve it.
 It is ethically wrong to knowingly prey on desperate customers struggling in their financial situation as it can be tempting for them to try to fix their debt by using more debt if they are unsure on how to fix it correctly 
 
+- What could the company do to address these issues?
+BankingCorp shouldn't work with a payday loan company 
+BankingCorp need to announce that their customers' data will be used by a 3rd party so customers can choose to opt out if they want to
+BankingCorp should announce their new partnership with a payday loan company 
+
 ### Scenario 2
 
 The new mobile game Treasure Hunters has been taking the country by storm. Players are shown an illustrated map and must find the hidden treasure by following clues and solving puzzles. The quicker a player finds the treasure the more points they score and they can compare their scores with their friends. Five new maps are added every day and each map can be completed in a few minutes, with the low time commitment making the game a huge hit with casual players. There are many players who would like more puzzles, though.
